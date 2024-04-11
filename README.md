@@ -1,6 +1,6 @@
 # pylaptoppred
 
-prediccting laptop prices base on algorithms
+Package for Group 13 analysis project: predicting laptop prices based on algorithms
 
 ## Installation
 
